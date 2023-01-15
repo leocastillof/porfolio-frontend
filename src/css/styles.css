@@ -1,0 +1,24 @@
+.containerMe
+{
+    text-align: center;
+    background-color: #ffc107;
+    margin-top: 2%;
+    border-radius: 25px;
+    padding-bottom: 2%;
+}
+.me
+{
+    border-radius: 20px;
+    width: 300px;
+    margin-top: 2%;
+}
+.titulo
+{
+    color: #fafafa;
+    font-family: fantasy;
+}
+.descripcion
+{
+    color: #f44336;
+    font-weight: 400;
+}
